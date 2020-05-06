@@ -1,3 +1,5 @@
+Trying to use nbconvert inside Pressbooks to include Jupyter Notebooks in textbooks. In addition to show code, it is possible to access Github code as unique storage for the code
+
 # nbconvert
 
 ## Installation
