@@ -4,7 +4,9 @@ Trying to use nbconvert inside Pressbooks to include Jupyter Notebooks in textbo
 
 ## Installation
 
-Simply install [WP Pusher](https://wppusher.com/) by downloading and installing the package from a zip file then add my wordpress plugin from my git repo! You do this by adding the uri into the git plugin installer (ghandic/nbconvert)
+1. Install [WP Pusher](https://wppusher.com/) by downloading and installing the package from a zip file 
+2. From the WP Pusher settings, add the nbconvert plugin by typing this uri into the git plugin installer: ghandic/nbconvert
+3. Activate the nbconvert plugin for the network
 
 ## How it works
 
