@@ -7,7 +7,7 @@ Trying to use nbconvert inside Pressbooks to include Jupyter Notebooks in textbo
 1. Install [WP Pusher](https://wppusher.com/) as a plugin in your Pressbooks site by downloading and installing the package from a zip file: go to your Pressbooks dashboard, Network Administrator, and select Plugins -> Add Plugins -> Upload Plugin. Upload your WP Pusher zip file, install it and activate it
 2. Install the nbconvert plugin in your Pressbooks site: from the WP Pusher settings, add the nbconvert plugin by typing this uri into the git plugin installer: ghandic/nbconvert. Go to Network Administrator -> Plugins -> WP Pusher -> Install plugin -> [Repository host: select GitHub] -> [Plugin repository: type ghandic/nbconvert] -> Install plugin
 3. Activate the nbconvert plugin for your network
-4. Customize your book css as needed, since nbconvert.css from the plugin can require some adaptation (in your book go to Appearance -> Custom Styles -> Your Web Styles)
+4. Customize your book css as needed, since nbconvert.css from the plugin can require some adaptation (in your book go to Appearance -> Custom Styles -> Your Web Styles). My own Custom Styles file is [available here](https://github.com/Jero2760/nbconvert/blob/master/css/my_custom_styles.css)
 
 ## How it works
 
