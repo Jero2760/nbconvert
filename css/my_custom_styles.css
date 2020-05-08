@@ -1,0 +1,44 @@
+#booknav {
+  margin: -30px 0 0;
+}
+
+div.notebook div.nbconvert-labels {
+  position: relative;
+  left: 0px;
+}
+
+div.notebook div.nbconvert .output_prompt {
+  position: absolute;
+  margin-top: -4px;
+}
+
+div.notebook div.nbconvert .input_prompt {
+  line-height: 26px;
+}
+
+div.notebook div.nbconvert .input_area pre {
+  line-height: 1.35em;
+  font-size: 14px;
+}
+
+div.notebook div.nbconvert .output_subarea {
+  font-size: 14px;
+  margin-left: 80px;
+  margin-top: 10px;
+  line-height: 1.35em;
+  overflow: hidden;
+}
+
+div.notebook div.nbconvert .inner_cell p, .inner_cell ol, .inner_cell ul {
+  font-size: 14px;
+  margin-left: 1%;
+}
+
+div.notebook div.nbconvert .inner_cell table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#main .site-content {
+  width: 80%;
+}
