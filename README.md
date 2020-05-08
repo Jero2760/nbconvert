@@ -17,6 +17,6 @@ Simply add a shortcode and a url to the notebook file into your page editor on P
 
 PHP then sends the url to an nbviewer API that will convert the ipynb file to html
 
-## Example of how it renders on Wordpress default theme
+## Example of how it renders on Pressbooks books
 
-![](https://www.andrewchallis.co.uk/wp-content/uploads/2018/02/demo.png)
+![](https://www.publiconsulting.com/wordpress/pythonfords/wp-content/uploads/2020/05/demo.png)
