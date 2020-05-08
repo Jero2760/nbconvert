@@ -11,9 +11,9 @@ Trying to use nbconvert inside Pressbooks to include Jupyter Notebooks in textbo
 
 ## How it works
 
-Simply add a shortcode and a url to the notebook file into your page editor on wordpress and voila
+Simply add a shortcode and a url to the notebook file into your page editor on Pressbooks
 
-`[nbconvert url="https://github.com/ghandic/confluenceapi/blob/master/examples/Updating%20a%20confluence%20page.ipynb"]`
+`[nbconvert url="https://github.com/Jero2760/nbconvert/blob/master/example1.ipynb"]`
 
 PHP then sends the url to an nbviewer API that will convert the ipynb file to html
 
