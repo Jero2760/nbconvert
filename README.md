@@ -19,4 +19,4 @@ PHP then sends the url to an nbviewer API that will convert the ipynb file to ht
 
 ## Example of how it renders on Pressbooks books
 
-![](https://www.publiconsulting.com/wordpress/pythonfords/wp-content/uploads/2020/05/demo.png)
+![](http://www.publiconsulting.com/wordpress/pythonfords/wp-content/uploads/sites/116/2020/05/demo.png)
