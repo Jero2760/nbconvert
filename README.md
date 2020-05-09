@@ -1,4 +1,6 @@
-Trying to use nbconvert inside Pressbooks to include Jupyter Notebooks in textbooks. In addition to show code, it is possible to access Github code as unique storage for the code
+#  Include Jupyter Notebooks in Pressbooks books
+
+Pressbooks textbooks can now visualize Jupyter notebooks from GitHub repositories, making them accessible through GitHub and Google Colab as well. The Pressbooks book show the notebook code while it is maintained inside a GitHub repository. Readers can then go to interact and execute code without having to install anything locally. Authors can keep source code updated in just one place: the GitHub repo.
 
 # nbconvert
 
